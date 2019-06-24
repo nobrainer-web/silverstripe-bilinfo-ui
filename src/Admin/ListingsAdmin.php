@@ -16,7 +16,7 @@ class ListingsAdmin extends ModelAdmin
     /**
      * @config string
      */
-    private static $menu_title = 'BilInfo';
+    private static $menu_title = 'Bil Info';
 
     /**
      * @config string
