@@ -23,7 +23,7 @@ class ListingsAdmin extends ModelAdmin
      */
     private static $url_segment = 'nw-bilinfo-admin';
 
-    //private static $menu_icon_class = 'font-icon-torsos-all';
+    private static $menu_icon = 'nobrainer-web/silverstripe-bilinfo-ui:client/icons/car.png';
 
     /**
      * @config array
