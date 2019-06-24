@@ -23,5 +23,10 @@
     "psr-4": {
       "NobrainerWeb\\BilinfoUI\\": "src/"
     }
+  },
+  "extra": {
+    "expose": [
+      "client"
+    ]
   }
 }
