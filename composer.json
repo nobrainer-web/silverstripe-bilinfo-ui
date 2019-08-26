@@ -17,7 +17,7 @@
   "prefer-stable": true,
   "require": {
     "silverstripe/admin": "^1.4",
-    "nobrainer-web/silverstripe-bilinfo": "^1.0.x-dev"
+    "nobrainer-web/silverstripe-bilinfo": "1.0.x-dev"
   },
   "autoload": {
     "psr-4": {
